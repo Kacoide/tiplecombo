@@ -1,0 +1,33 @@
+Los comandos mas usados son
+
+
+git branch
+	git branch -a
+	git branch -r
+	git branch branchname
+	git branch -d branchname
+
+
+git remote add [apodo_custom] [https:/githublink/autor/reponame] /# SE agrega el repositorio 
+	git remote rm [custom_apodo] /# Elimina el repositorio que se mencione
+	git remote -v /#Sirve para ver los repositorios agregados
+
+git fetch 
+	git fetch [apodo_custom]
+	git fetch [apodo_custom] [BRANCHDELREPO]
+
+git pull [apodo_custom] [BRANCHDELREPO] # Hace una actualizacion del branch y descarga los archivos actualizandolos de forma local
+					  si es que existen
+	
+
+
+git commit
+	git commit -a -m "TEXTO" /#Aplica los cambios agregados del git add
+	git commit -a /#
+
+git add [Nombre de archivo o directorio]	/#Agrega un archivo del branch donde se esta trababando
+	git remove [Nombre del archivo o directorio] /# Elimina un archivo del branch donde se está trabajando
+
+
+
+AUTOR: ELKKS
