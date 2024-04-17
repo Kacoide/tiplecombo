@@ -1,0 +1,4 @@
+En este texto vamos a ir notificando cambios importantes con fecha y todo
+
+franco: Agregue a la branch TI un archivo llamado redes, este archivo tiene un ejemplo de una api
+	(17-04-2024)
