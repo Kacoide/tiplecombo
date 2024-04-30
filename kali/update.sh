@@ -20,6 +20,7 @@ apt update && apt -y install kali-linux-large
 
 sleep 2
 echo " "
+#Esta linea habilita todas la herramientas en la maquina#
 dpkg --configure -a
 echo " "
 echo " "
